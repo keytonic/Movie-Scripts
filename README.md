@@ -1,3 +1,3 @@
 # Movie-Scripts
 
-A couple of Python scripts i created to manage my personal library
+A couple of Python scripts I created to manage my personal library
