@@ -28,8 +28,8 @@ def move_it(name):
     if (name.find(".py") != -1) :
         return
 
-    #movies only
-    if(name.rfind('.mp4') == -1 and name.rfind('.mkv') == -1):
+    #movies and artwork only
+    if(name.rfind('.mp4') == -1 and name.rfind('.mkv') == -1 and name.rfind('.jpg') == -1):
         return
 
     #get first character, # is its not in alphabet
